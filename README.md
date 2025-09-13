@@ -33,7 +33,7 @@ The goal is to identify customer preferences, peak times for purchases, and spen
 ## 📊 Visualizations & Insights
 
 ### 1. Coffee Preferences by Type
-![Coffee Preferences](figures/coffee_preferences.png)  
+![Coffee Preferences](igures\sales_by_coffee_type.png)  
 - **Espresso and Latte** are the most purchased drinks.  
 - Specialty coffees like **Mocha and Cappuccino** are moderately popular.  
 - Premium options (e.g., Flat White, Macchiato) are niche.  
@@ -63,28 +63,28 @@ The goal is to identify customer preferences, peak times for purchases, and spen
 ---
 
 ### 5. Boxplot of Sales Amount by Time of Day
-![Boxplot Time of Day](figures/time_of_day_boxplot.png)  
+![Boxplot Time of Day](igures\avg_money_by_coffee.png)  
 - Customers spend **more in the mornings** compared to other times.  
 - Evening purchases show smaller, consistent spend.  
 
 ---
 
 ### 6. Distribution of Money Spent
-![Money Distribution](figures/money_distribution.png)  
+![Money Distribution](figures\payment_methods.png)  
 - Most transactions are **low-to-medium value**.  
 - Very high spending events are rare.  
 
 ---
 
 ### 7. Sales by Payment Type
-![Cash Type](figures/cash_type_bar.png)  
+![Cash Type](figures\payment_methods.png)  
 - Majority of payments are **cashless (cards/digital)**.  
 - Cash payments are less frequent but still present.  
 
 ---
 
 ### 8. Spending Patterns by Weekday (Violin Plot)
-![Weekday Violin](figures/weekday_violin.png)  
+![Weekday Violin](figures\heatmap_weekday_time.png)  
 - Spending is more **variable midweek (Wed/Thu)**.  
 - Weekends show more **stable but moderate spending**.  
 
