@@ -14,21 +14,21 @@ The goal is to identify customer preferences, peak times for purchases, and spen
   - `cash_type` → Payment method (Cash / Card / Digital)  
   - `money` → Amount spent on the transaction  
 
-File Structure
+## File Structure
 
-DATA-TRAIN/
-│── coffee_sales.csv # Dataset
-│── task_notebook.ipynb # Jupyter Notebook with all code & analysis
-│── figures/ # Folder containing saved graphs
-│ ├── coffee_preferences.png
-│ ├── sales_by_weekday.png
-│ ├── sales_by_hour.png
-│ ├── sales_by_month.png
-│ ├── time_of_day_boxplot.png
-│ ├── money_distribution.png
-│ ├── cash_type_bar.png
-│ ├── weekday_violin.png
-│── README.md # Project documentation (this file)
+## DATA-TRAIN/
+- │── coffee_sales.csv # Dataset
+- │── task_notebook.ipynb # Jupyter Notebook with all code & analysis
+- │── figures/ # Folder containing saved graphs
+- │ ├── coffee_preferences.png
+- │ ├── sales_by_weekday.png
+- │ ├── sales_by_hour.png
+- │ ├── sales_by_month.png
+- │ ├── time_of_day_boxplot.png
+- │ ├── money_distribution.png
+- │ ├── cash_type_bar.png
+- │ ├── weekday_violin.png
+- │── README.md # Project documentation (this file)
 
 ## 📊 Visualizations & Insights
 
